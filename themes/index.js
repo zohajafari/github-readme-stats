@@ -360,6 +360,12 @@ const themes = {
     icon_color: "ebbcba",
     text_color: "e0def4",
     bg_color: "191724",
+  },
+  "rose_pine":{
+    title_color: "339966",
+    icon_color: "ff8c66",
+    text_color: "ffd11a",
+    bg_color: "696969",
   }
 };
 
